@@ -6,9 +6,6 @@ int main()
     fgets(s, 1001, stdin);
 
     int len = strlen(s);
-    // if(len >0 && s[len-1] == '\n'){
-    //     s[len-1] = '\0';
-    // }
 
     for(int i=0; i<len; i++){
         if(s[i]==' '){
