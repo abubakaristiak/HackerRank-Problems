@@ -1,3 +1,4 @@
+//https://www.hackerrank.com/challenges/frequency-of-digits-1/problem?isFullScreen=true
 #include<stdio.h>
 #include<string.h>
 int main()
@@ -13,7 +14,7 @@ int main()
         }
     }
     for(int i=0; i<10; i++){
-        printf("%d",freq[i]);
+        printf("%d ",freq[i]);
     }
     return 0;
 }
