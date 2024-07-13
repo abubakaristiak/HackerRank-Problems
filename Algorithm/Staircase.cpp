@@ -1,3 +1,4 @@
+//https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true
 #include <iostream>
 using namespace std;
 
@@ -10,7 +11,7 @@ int main() {
             cout << " ";
         }
 
-        
+
         for (int k = 0; k < i; ++k) {
             cout << "#";
         }

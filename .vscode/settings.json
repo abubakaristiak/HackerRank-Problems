@@ -3,6 +3,7 @@
         "ostream": "cpp",
         "iostream": "cpp",
         "sstream": "cpp",
-        "regex": "cpp"
+        "regex": "cpp",
+        "chrono": "cpp"
     }
 }
